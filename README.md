@@ -20,3 +20,4 @@ cloud-based remote solutions.
 * Integrate Home Assistant Cloud with our Home Assistant System
 * Write Javascript code that can display a "dashboard" of all the information from connected devices
 * Start actually connecting devices lol
+* Get an UPS (need to find out which to get since idk what we're supposed to use)
